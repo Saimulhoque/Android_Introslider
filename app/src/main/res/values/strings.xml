@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">introslide</string>
+    <string name="food">We need food everyday, but have you ever\n
+                        wondered how many kinds of food you  are\n
+                        eating? There are a lot of food we have \n
+                        not tried.</string>
+    <string name="delivery">introslide</string>
+    <string name="payment">introslide</string>
+
+</resources>
